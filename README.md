@@ -71,10 +71,12 @@ s.close()
 
 ## OUPUT
 ## Server
-<img width="1687" height="905" alt="image" src="https://github.com/user-attachments/assets/6b4e4079-3968-4b4c-8fa2-f82969bd575e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a31ef280-a16d-431d-80a6-f9e21163ec5a" />
+
 
 ## Client
-<img width="1259" height="960" alt="image" src="https://github.com/user-attachments/assets/dc5ea3e4-1d03-423c-ae3f-272542a10f31" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc65e4fb-f2a5-4e14-9ac3-8b87df049c77" />
+
 
 
 ## RESULT

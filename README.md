@@ -72,6 +72,7 @@ s.close()
 ## OUPUT
 ## Server
 <img width="1687" height="905" alt="image" src="https://github.com/user-attachments/assets/6b4e4079-3968-4b4c-8fa2-f82969bd575e" />
+
 ## Client
 <img width="1259" height="960" alt="image" src="https://github.com/user-attachments/assets/dc5ea3e4-1d03-423c-ae3f-272542a10f31" />
 
